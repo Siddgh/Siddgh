@@ -1,7 +1,4 @@
 [![](https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6)](https://visitcount.itsvg.in)
-<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
-<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" />
-</a>
 
 ---
 
@@ -21,6 +18,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&hide_border=true&count_private=false&layout=compact&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="My GitHub Lang" style="width: 49%; height: auto;" />
 </a>
 
+<br>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
+<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" />
+</a>
 ---
 
 #### Stalk me on
