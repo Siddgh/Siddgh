@@ -3,7 +3,7 @@
     <img src="https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6" alt="Visit Count" style="height: 40px; width: auto;" />
   </a>
   <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" style="height: 40px; width: auto;" />
+    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" style="height: 40px; width: auto; border-radius: 0.5rem;" />
   </a>
 </div>
 
@@ -26,7 +26,9 @@
 </a>
 
 ---
+
 #### Stalk me on
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/https://twitter.com/SiddsCodeBase) 
+
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/https://twitter.com/SiddsCodeBase)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
