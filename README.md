@@ -1,11 +1,7 @@
-<div style="display: flex; align-items: center;">
-  <a href="https://visitcount.itsvg.in" target="_blank" style="margin-right: 10px;">
-    <img src="https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6" alt="Visit Count" style="height: 40px; width: auto;" />
-  </a>
-  <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" style="height: 40px; width: auto;" />
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6)](https://visitcount.itsvg.in)
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
+<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" />
+</a>
 
 ---
 
