@@ -20,6 +20,6 @@
 
 ---
 #### Stalk me on
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SiddsCodeBase) 
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/x.svg)](https://x.com/https://twitter.com/SiddsCodeBase) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
