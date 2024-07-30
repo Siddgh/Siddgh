@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/siddgh#gh-light-mode-only">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddgh&show_icons=true&hide_border=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddgh&show_icons=true&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/siddgh#gh-dark-mode-only">
@@ -16,7 +16,7 @@
 </a>
 <br>
 <a href="https://github.com/siddgh#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&hide_border=true&count_private=false&layout=compact&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Lang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&hide_border=true&count_private=false&layout=compact&show_icons=true#gh-light-mode-only" alt="My GitHub Lang" />
 </a>
 
 <a href="https://github.com/siddgh#gh-dark-mode-only">
