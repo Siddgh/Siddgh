@@ -20,7 +20,7 @@
 </a>
 
 <a href="https://github.com/siddgh#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&border=false&count_private=false&layout=compact&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Lang" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&count_private=false&layout=compact&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Lang" />
 </a>
 
 
