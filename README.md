@@ -9,7 +9,7 @@
 <a href="https://github.com/siddgh#gh-dark-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddgh&show_icons=true&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="My GitHub Stats" style="width: 49%; height: auto;" />
 </a>
-<br>
+
 <a href="https://github.com/siddgh#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&hide_border=true&count_private=false&layout=compact&show_icons=true#gh-light-mode-only" alt="My GitHub Lang" style="width: 49%; height: auto;" />
 </a>
