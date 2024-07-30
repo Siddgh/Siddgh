@@ -2,8 +2,8 @@
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siddgh&theme=discord_old_blurple&hide_border=false#gh-dark-mode-only)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Siddgh)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddgh&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 #### Stalk me on
