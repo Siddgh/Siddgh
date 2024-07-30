@@ -3,7 +3,7 @@
     <img src="https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6" alt="Visit Count" style="height: 40px; width: auto;" />
   </a>
   <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" style="height: 40px; width: auto; border-radius: 0.5rem;" />
+    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" style="height: 40px; width: auto; border-radius: 5rem;" />
   </a>
 </div>
 
