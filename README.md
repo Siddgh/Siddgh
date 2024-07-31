@@ -28,10 +28,10 @@
 </a>
 
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
-  <img src="https://leetcard.jacoblin.cool/sidddgh17?ext=heatmap&theme=light" style="width: 49%; height: auto; border: none;"/>
+  <img src="https://leetcard.jacoblin.cool/sidddgh17?ext=heatmap&theme=light" style="width: 49%; height: auto;"/>
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
-  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=dark&font=&extension=null" style="width: 49%; height: auto;"/>
+  <img src="https://leetcard.jacoblin.cool/sidddgh17?ext=heatmap&theme=dark" style="width: 49%; height: auto;"/>
 </a>
 
 
