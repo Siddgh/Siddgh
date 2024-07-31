@@ -20,7 +20,7 @@
 
 
 <br>
-<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
+<!-- <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
   <img src="https://stackoverflow-card.vercel.app/?userID=6453977&showBorder=false" style="width: 49%; height: auto;" />
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
@@ -32,7 +32,7 @@
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
   <img src="https://leetcode.card.workers.dev/sidddgh17?theme=dark&font=&extension=activity" style="width: 49%; height: auto;"/>
-</a>
+</a> -->
 
 ---
 
