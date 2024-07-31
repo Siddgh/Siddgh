@@ -1,4 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=siddgh&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<h1 align="center">Hi 👋, I'm Sid</h1>
+<h3 align="center">A Software Engineer from Boston, MA, USA</h3>
 
 ---
 
