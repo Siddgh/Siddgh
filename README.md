@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=siddgh&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Sid</h1>
 <h3 align="center">A Software Engineer from Boston, MA, USA</h3>
----
 
 <a href="https://github.com/siddgh#gh-light-mode-only">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddgh&show_icons=true&hide_border=true#gh-light-mode-only" alt="My GitHub Stats" style="width: 49%; height: auto;" />
