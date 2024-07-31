@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
-  <img src="https://leetcard.jacoblin.cool/sidddgh17?theme=dark" style="width: 49%; height: auto;"/>
+  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=default&font=&extension=null" style="width: 49%; height: auto;"/>
 </a>
 
 ---
