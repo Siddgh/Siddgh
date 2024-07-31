@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=siddgh&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 ---
 
