@@ -27,7 +27,7 @@
 
 #### Stalk me on
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/"><img src="public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/https://twitter.com/SiddsCodeBase)
 
