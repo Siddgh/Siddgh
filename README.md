@@ -23,7 +23,7 @@
   <img src="https://stackoverflow-card.vercel.app/?userID=6453977&showBorder=false" style="width: 49%; height: auto;" />
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
-  <img src="https://stackoverflow-card.vercel.app/?userID=353337&theme=tomorrownightblue&showBorder=false&background=#ffffff" style="width: 49%; height: auto;"/>
+  <img src="https://stackoverflow-card.vercel.app/?userID=353337&theme=tomorrownightbright&showBorder=false" style="width: 49%; height: auto;"/>
 </a>
 
 ---
