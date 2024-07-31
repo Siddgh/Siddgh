@@ -27,7 +27,12 @@
 
 #### Stalk me on
 
-<a href="https://www.linkedin.com/in/siddheshdighe/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
-<a href="https://leetcode.com/u/sidddgh17/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/leetcode/leetcode.png" alt="Leetcode Icon" height="48"></a>
-<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverFlow Icon" height="48"></a>
-<a href="https://x.com/https://twitter.com/SiddsCodeBase"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X Icon" height="48"></a>
+<a href="https://www.linkedin.com/in/siddheshdighe#gh-light-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
+<a href="https://leetcode.com/u/sidddgh17#gh-light-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/leetcode/leetcode.png" alt="Leetcode Icon" height="48"></a>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverFlow Icon" height="48"></a>
+<a href="https://x.com/https://twitter.com/SiddsCodeBase#gh-light-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X Icon" height="48"></a>
+
+<a href="https://www.linkedin.com/in/siddheshdighe#gh-dark-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
+<a href="https://leetcode.com/u/sidddgh17#gh-dark-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/leetcode/leetcode-light.png" alt="Leetcode Icon" height="48"></a>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverFlow Icon" height="48"></a>
+<a href="https://x.com/https://twitter.com/SiddsCodeBase#gh-dark-mode-only"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" alt="X Icon" height="48"></a>
