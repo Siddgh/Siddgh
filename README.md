@@ -20,10 +20,10 @@
 
 <br>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
-  <img src="https://stackoverflow-card.vercel.app/?userID=6453977&background=%23fff&foreground=%230f0f0f&border=%23fff&icon=%230f0f0f$showLogo=false" style="width: 49%; height: auto;" />
+  <img src="https://stackoverflow-card.vercel.app/?userID=6453977&showBorder=false" style="width: 49%; height: auto;" />
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
-  <img src="https://stackoverflow-card.vercel.app/?userID=6453977&theme=stackoverflow-dark" style="width: 49%; height: auto;"/>
+  <img src="src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula&showBorder=false"" style="width: 49%; height: auto;"/>
 </a>
 
 ---
