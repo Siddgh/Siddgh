@@ -19,20 +19,20 @@
 </a>
 
 
-<!-- <br> -->
-<!-- <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
+<br>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
   <img src="https://stackoverflow-card.vercel.app/?userID=6453977&showBorder=false" style="width: 49%; height: auto;" />
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
   <img src="https://stackoverflow-card.vercel.app/?userID=353337&theme=tomorrownightbright&showBorder=false" style="width: 49%; height: auto;"/>
-</a> -->
+</a>
 
-<!-- <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
-  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=light&font=&extension=none" style="width: 49%; height: auto;"/>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-light-mode-only" target="_blank" >
+  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=light&font=&extension=default" style="width: 49%; height: auto;"/>
 </a>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe#gh-dark-mode-only" target="_blank" >
-  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=dark&font=&extension=none" style="width: 49%; height: auto;"/>
-</a> -->
+  <img src="https://leetcode.card.workers.dev/sidddgh17?theme=dark&font=&extension=default" style="width: 49%; height: auto;"/>
+</a>
 
 
 #### Stalk me on
