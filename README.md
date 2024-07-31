@@ -27,8 +27,7 @@
 
 #### Stalk me on
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
-
-[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/https://www.linkedin.com/in/siddheshdighe/) [![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/https://twitter.com/SiddsCodeBase)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://www.linkedin.com/in/siddheshdighe/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/linkedin/linkedin.svg" alt="LinkedIn Icon" height="48"></a>
+<a href="https://leetcode.com/u/sidddgh17/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/leetcode/leetcode.png" alt="Leetcode Icon" height="48"></a>
+<a href="https://stackoverflow.com/users/6453977/siddhesh-dighe"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="StackOverFlow Icon" height="48"></a>
+<a href="https://x.com/https://twitter.com/SiddsCodeBase"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x.svg" alt="X Icon" height="48"></a>
