@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Siddgh&icon=3&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Siddgh)
 
 ---
 
