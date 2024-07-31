@@ -20,7 +20,8 @@
 
 <br>
 <a href="https://stackoverflow.com/users/6453977/siddhesh-dighe" target="_blank">
-<img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=6453977" />
+  <img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=353337&theme=dracula"/>
 </a>
 
 ---
